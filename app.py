@@ -35,7 +35,7 @@ if user_file is not None:
     provide answers based on the given context
     <context>
     {context}
-    <context>
+    </context>
     question:{question}
     '''
   )
